@@ -1,0 +1,99 @@
+Total no. of rows: 5
+Field names are:1,2,0,,,2,0,,,1,0,0,,,1,0,,,4,0,,,3,0,,,5,0,,,4,5,,,7,0,,,6,0,
+
+
+First 6 rows are:
+
+        30
+        25
+        35
+        40
+        50
+        10
+        56
+
+
+
+
+
+       RIT
+     Dubai
+       UAE
+      gulf
+Samir El-Masri
+   Sharjah
+ abu Dhabi
+Umm Al Quwain
+     Ajman
+
+
+
+       red
+      blue
+     green
+    yellow
+    purple
+      pink
+     brown
+     black
+
+
+
+
+      name
+       age
+   address
+       uni
+   college
+    depart
+     semes
+      year
+   credits
+       gpa
+
+
+     Karim
+        18
+20 rim str. Silcon Oasis
+       RIT
+Computer Science
+Data Science
+      Fall
+         2
+        35
+       4.3
+
+
+30
+25
+35
+40
+50
+10
+56
+Location is not found
+
+
+Sorted tuple is
+30
+25
+35
+40
+50
+10
+56
+Sorted array is:
+10
+20
+30
+40
+45
+50
+60
+70
+100
+120
+Your color is:
+brown
+Fujairah
+['Abu Dhabi', 'Ajman', 'Dubai', 'Fujairah', 'Gulf', 'RIT', 'Sharjah', 'Smair El-Masri', 'UAE', 'Umm al-Quwain']
